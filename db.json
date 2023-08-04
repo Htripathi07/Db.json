@@ -1,0 +1,49 @@
+
+[
+    {
+      "id": "6",
+      "productName": "Product 6",
+      "productDescription": "Product 6 description",
+      "gender": "Female",
+      "category": "Lehenga",
+      "price": 50,
+      "productImage": "https://reqres.in/img/faces/7-image.jpg"
+    },
+    {
+      "id": "7",
+      "productName": "Product 7",
+      "productDescription": "Product 7 description",
+      "gender": "Male",
+      "category": "Suits",
+      "price": 60,
+      "productImage": "https://reqres.in/img/faces/7-image.jpg"
+    },
+    {
+      "productName": "Laptop",
+      "productDescription": "it is a hp laptop",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": 2773,
+      "productImage": "https://reqres.in/img/faces/7-image.jpg",
+      "id": "vpwzHpj"
+    },
+    {
+      "productName": "Lehnga",
+      "productDescription": "Its wonderful lehnga",
+      "gender": "Female",
+      "category": "Suits",
+      "price": 4567,
+      "productImage": "https://reqres.in/img/faces/7-image.jpg",
+      "id": "sO4bYdr"
+    },
+    {
+      "productName": "Icecream ",
+      "productDescription": "Icecream",
+      "gender": "Male",
+      "category": "Jeans",
+      "price": 217271,
+      "productImage": "https://reqres.in/img/faces/7-image.jpg",
+      "id": "fxszrOK"
+    }
+  ]
+  
